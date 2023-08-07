@@ -1,0 +1,105 @@
+h5#upsell-v2-minicart-addon-title {
+    text-align: center;
+    line-height: 2.8;
+    background: var(--rio-white-color, --wp--preset--color--cyan-bluish-gray);
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+td.upsell-v2-minicart-addon-product-image {
+    width: 80px;
+}
+
+td.upsell-v2-minicart-addon-product-image>img {
+    border: 1px solid #ddd;
+}
+
+td.upsell-v2-minicart-addon-product-title {
+    font-weight: 500;
+}
+
+td.upsell-v2-minicart-addon-prod-price {
+    font-weight: 600;
+    color: var(--rio-primary-color, --e-global-color-secondary);
+    position: relative;
+    left: 10px;
+}
+
+td.upsell-v2-minicart-upsell-labell {
+    font-weight: 600;
+    width: 36px;
+    position: relative;
+    top: 8px;
+}
+
+select.upsell-v2-minicart-addon-variable-product-variation-select {
+    width: 100px;
+}
+
+table.upsell-v2-minicart-addon-table {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+table.upsell-v2-minicart-addon-inner-table.variable {
+    margin-bottom: 0;
+}
+
+td.upsell-v2-minicart-addon-nested-table-td {
+    position: relative;
+    border: 30px;
+}
+
+tr.upsell-v2-minicart-nested-dd-tr {
+    position: relative;
+    bottom: 7px;
+}
+
+.cart-popup.widget_shopping_cart.dropdown-box {
+    overflow: scroll;
+}
+
+td.upsell-v2-minicart-addon-prod-price {
+    padding: 0;
+}
+
+div#upsell-v2-minicart-addon-outer-cont {
+    padding-bottom: 30px;
+}
+
+.upsell-v2-minicart-addon-atc-td {
+	vertical-align: middle;
+}
+
+/* 1536px */
+@media screen and (max-width: 1536px) {}
+
+/* 1440px */
+@media screen and (max-width: 1440px) {}
+
+/* 1366px */
+@media screen and (max-width: 1366px) {}
+
+/* 1280px */
+@media screen and (max-width: 1280px) {}
+
+/* 962px */
+@media screen and (max-width: 962px) {}
+
+/* 800px */
+@media screen and (max-width: 800px) {}
+
+/* 768px */
+@media screen and (max-width: 768px) {}
+
+/* 601px */
+@media screen and (max-width: 601px) {}
+
+/* 414px */
+@media screen and (max-width: 414px) {}
+
+/* 375px */
+@media screen and (max-width: 375px) {}
+
+/* 360px */
+@media screen and (max-width: 360px) {}

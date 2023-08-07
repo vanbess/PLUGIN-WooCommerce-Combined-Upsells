@@ -1,0 +1,1183 @@
+Array
+(
+    [0] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_color] => aqua
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 37.7
+            [display_regular_price] => 76.7
+            [image] => Array
+                (
+                    [title] => ND1014-6-22_1
+                    [caption] => 
+                    [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1.jpg
+                    [alt] => 
+                    [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-828x828.jpg
+                    [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1.jpg 1380w
+                    [sizes] => (max-width: 828px) 100vw, 828px
+                    [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1.jpg
+                    [full_src_w] => 1380
+                    [full_src_h] => 1380
+                    [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-335x335.jpg
+                    [gallery_thumbnail_src_w] => 335
+                    [gallery_thumbnail_src_h] => 335
+                    [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-335x335.jpg
+                    [thumb_src_w] => 335
+                    [thumb_src_h] => 335
+                    [src_w] => 828
+                    [src_h] => 828
+                )
+
+            [image_id] => 1055757
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => ND1014-6
+            [variation_description] => 
+            [variation_id] => 1731123
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+            [jck_additional_images] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => ND1014-6-22_1
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-828x828.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1.jpg 1380w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-335x335.jpg
+                            [thumb_src_w] => 335
+                            [thumb_src_h] => 335
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-335x335.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-22_1.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [title] => ND1014-6-19_1
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-828x828.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1.jpg 1380w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-335x335.jpg
+                            [thumb_src_w] => 335
+                            [thumb_src_h] => 335
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-768x768.jpg 768w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-335x335.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-19_1.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [title] => ND1014-6-15_1
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-828x828.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1.jpg 1380w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-335x335.jpg
+                            [thumb_src_w] => 335
+                            [thumb_src_h] => 335
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-768x768.jpg 768w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-335x335.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-15_1.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [3] => Array
+                        (
+                            [title] => ND1014-6-29_1
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-828x828.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1.jpg 1380w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-335x335.jpg
+                            [thumb_src_w] => 335
+                            [thumb_src_h] => 335
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-768x768.jpg 768w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-335x335.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-29_1.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [4] => Array
+                        (
+                            [title] => ND1014-6-5
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-828x828.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1.jpg 1380w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-335x335.jpg
+                            [thumb_src_w] => 335
+                            [thumb_src_h] => 335
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-768x768.jpg 768w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-335x335.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-5-1.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [5] => Array
+                        (
+                            [title] => ND1014-6-3
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-3-1.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [6] => Array
+                        (
+                            [title] => ND1014-6-8
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-8-1.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [7] => Array
+                        (
+                            [title] => ND1014-6-6
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-6.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [8] => Array
+                        (
+                            [title] => ND1014-6-7
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-6-7.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_color] => black
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 37.7
+            [display_regular_price] => 76.7
+            [image] => Array
+                (
+                    [title] => Nordace_Slippella_27
+                    [caption] => 
+                    [url] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27.jpg
+                    [alt] => 
+                    [src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-828x828.jpg
+                    [srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27.jpg 1380w
+                    [sizes] => (max-width: 828px) 100vw, 828px
+                    [full_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27.jpg
+                    [full_src_w] => 1380
+                    [full_src_h] => 1380
+                    [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-335x335.jpg
+                    [gallery_thumbnail_src_w] => 335
+                    [gallery_thumbnail_src_h] => 335
+                    [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-335x335.jpg
+                    [thumb_src_w] => 335
+                    [thumb_src_h] => 335
+                    [src_w] => 828
+                    [src_h] => 828
+                )
+
+            [image_id] => 72631
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => ND1014-1
+            [variation_description] => 
+            [variation_id] => 83787
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+            [jck_additional_images] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => Nordace_Slippella_27
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-828x828.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27.jpg 1380w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-335x335.jpg
+                            [thumb_src_w] => 335
+                            [thumb_src_h] => 335
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-828x828.jpg 828w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-335x335.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_27.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [title] => Nordace_Slippella_28
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_28.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_28.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_28.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_28-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_28.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_28.jpg
+                            [thumb_src_w] => 335
+                            [thumb_src_h] => 335
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_28.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_28.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_28-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_28-600x600.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_28.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_28-600x600.jpg 600w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [title] => Nordace_Slippella_26
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_26.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_26.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_26.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_26-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_26.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_26.jpg
+                            [thumb_src_w] => 335
+                            [thumb_src_h] => 335
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_26.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_26.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_26-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_26-600x600.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_26.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_26-600x600.jpg 600w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [3] => Array
+                        (
+                            [title] => Nordace_Slippella_25
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_25.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_25.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_25.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_25-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_25.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_25.jpg
+                            [thumb_src_w] => 335
+                            [thumb_src_h] => 335
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_25.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_25.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_25-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_25-600x600.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_25.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_25-600x600.jpg 600w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [4] => Array
+                        (
+                            [title] => Nordace_Slippella_29
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_29.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_29.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_29.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_29-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_29.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_29.jpg
+                            [thumb_src_w] => 335
+                            [thumb_src_h] => 335
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_29.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_29.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_29-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_29-600x600.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_29.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_29-600x600.jpg 600w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_color] => gray
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 37.7
+            [display_regular_price] => 76.7
+            [image] => Array
+                (
+                    [title] => Nordace_Slippella_21
+                    [caption] => 
+                    [url] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21.jpg
+                    [alt] => 
+                    [src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-828x828.jpg
+                    [srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21.jpg 1380w
+                    [sizes] => (max-width: 828px) 100vw, 828px
+                    [full_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21.jpg
+                    [full_src_w] => 1380
+                    [full_src_h] => 1380
+                    [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-335x335.jpg
+                    [gallery_thumbnail_src_w] => 335
+                    [gallery_thumbnail_src_h] => 335
+                    [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-335x335.jpg
+                    [thumb_src_w] => 335
+                    [thumb_src_h] => 335
+                    [src_w] => 828
+                    [src_h] => 828
+                )
+
+            [image_id] => 72625
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => ND1014-2
+            [variation_description] => 
+            [variation_id] => 1053806
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+            [jck_additional_images] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => Nordace_Slippella_21
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-828x828.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21.jpg 1380w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-335x335.jpg
+                            [thumb_src_w] => 335
+                            [thumb_src_h] => 335
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-828x828.jpg 828w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-335x335.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_21.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [title] => ND1014-2-3
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-3.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [title] => ND1014-2-4
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-4.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [3] => Array
+                        (
+                            [title] => ND1014-2-5
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-5.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [4] => Array
+                        (
+                            [title] => ND1014-2-6
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-6.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [5] => Array
+                        (
+                            [title] => ND1014-2-7
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-7.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [6] => Array
+                        (
+                            [title] => ND1014-2-8
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-8.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [7] => Array
+                        (
+                            [title] => ND1014-2-2
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-2-2.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_color] => blue
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 37.7
+            [display_regular_price] => 76.7
+            [image] => Array
+                (
+                    [title] => Nordace_Slippella_9
+                    [caption] => 
+                    [url] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9.jpg
+                    [alt] => 
+                    [src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-828x828.jpg
+                    [srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9.jpg 1380w
+                    [sizes] => (max-width: 828px) 100vw, 828px
+                    [full_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9.jpg
+                    [full_src_w] => 1380
+                    [full_src_h] => 1380
+                    [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-335x335.jpg
+                    [gallery_thumbnail_src_w] => 335
+                    [gallery_thumbnail_src_h] => 335
+                    [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-335x335.jpg
+                    [thumb_src_w] => 335
+                    [thumb_src_h] => 335
+                    [src_w] => 828
+                    [src_h] => 828
+                )
+
+            [image_id] => 72613
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => ND1014-4
+            [variation_description] => 
+            [variation_id] => 1053795
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+            [jck_additional_images] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => Nordace_Slippella_9
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-828x828.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9.jpg 1380w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-335x335.jpg
+                            [thumb_src_w] => 335
+                            [thumb_src_h] => 335
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-828x828.jpg 828w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-335x335.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-335x335.jpg 335w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9-828x828.jpg 828w, https://nordace.com/wp-content/uploads/2019/05/Nordace_Slippella_9.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [title] => ND1014-4-2
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-2.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [title] => ND1014-4-3
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-3.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [3] => Array
+                        (
+                            [title] => ND1014-4-4
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-4.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [4] => Array
+                        (
+                            [title] => ND1014-4-5
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-5.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [5] => Array
+                        (
+                            [title] => ND1014-4-6
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-6.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                    [6] => Array
+                        (
+                            [title] => ND1014-4-7
+                            [caption] => 
+                            [url] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7.jpg
+                            [alt] => Slippella - Lightweight Water Repellent Umbrella (Bundle Special)
+                            [src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7.jpg
+                            [srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-600x600.jpg 600w
+                            [sizes] => (max-width: 828px) 100vw, 828px
+                            [full_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7.jpg
+                            [full_src_w] => 1380
+                            [full_src_h] => 1380
+                            [thumb_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-250x250.jpg
+                            [thumb_src_w] => 250
+                            [thumb_src_h] => 250
+                            [src_w] => 828
+                            [src_h] => 828
+                            [thumb_srcset] => 
+                            [thumb_sizes] => 
+                            [large_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7.jpg
+                            [large_src_w] => 1380
+                            [large_src_h] => 1380
+                            [large_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7.jpg 1380w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-600x600.jpg 600w
+                            [large_sizes] => (max-width: 1380px) 100vw, 1380px
+                            [gallery_thumbnail_src] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-400x400.jpg
+                            [gallery_thumbnail_src_w] => 335
+                            [gallery_thumbnail_src_h] => 335
+                            [gallery_thumbnail_srcset] => https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-400x400.jpg 400w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-800x800.jpg 800w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-280x280.jpg 280w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-768x768.jpg 768w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-250x250.jpg 250w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7-600x600.jpg 600w, https://nordace.com/wp-content/uploads/2019/05/ND1014-4-7.jpg 1380w
+                            [gallery_thumbnail_sizes] => (max-width: 335px) 100vw, 335px
+                            [media_embed] => 
+                        )
+
+                )
+
+        )
+
+)

@@ -1,0 +1,7 @@
+25 April 2022
+- Added support for tracking multiple upsell impressions, conversions etc
+- Added manual caching for upsell impressions to avoid server overload when tracking impressions (impressions updated every 5 minutes via custom chron job)
+- Added check for Polylang. Plugin init bails early if Polylang not installed, displaying admin error message, so that display issues on front-end is avoided.
+
+16 June 2022
+- Added discount percentage inputs for Single Product Upsells tracking, Cart Addons tracking, Checkout Addons tracking and Checkout Popups tracking items. If items present in session data and discount defined under tracking items, discount will be applied to item in cart/during checkout.

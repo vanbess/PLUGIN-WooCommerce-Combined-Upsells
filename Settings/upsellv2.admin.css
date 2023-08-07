@@ -1,0 +1,117 @@
+div#upsell-v2-settings-cont>h2 {
+    background: white;
+    padding: 15px;
+    margin-top: 0;
+    margin-left: -20px;
+    box-shadow: 0px 2px 5px #00000036;
+}
+
+.ui-tabs-tab {
+    display: inline-block;
+    width: 20%;
+    font-size: 17px;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background: white;
+    border-bottom: none;
+}
+
+.ui-tabs-panel {
+    padding: 15px;
+    background: white;
+    margin-top: -6px;
+    border: 1px solid #ccc;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.ui-tabs-tab>a {
+    text-decoration: none;
+    color: #4d4d4d;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    display: block;
+}
+
+.ui-state-active {
+    border-bottom: 1px solid white !important;
+    position: relative;
+    z-index: 100;
+    margin-bottom: 0;
+}
+
+.ui-state-active>a {
+    color: #2271b1;
+}
+
+div#upsell-v2-tabs {
+    margin-bottom: 20px;
+}
+
+button#upsell-v2-update-settings {
+    font-size: 16px;
+}
+
+a.upsell-v2-add-pu-upsell {
+    position: absolute;
+    left: 37%;
+    text-decoration: none;
+}
+
+p.upsell-v2-settings-info {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+button#upsell-v2-save-product-upsells {
+    margin-top: 20px;
+}
+
+p.upsell-v2-settings-info {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+button#upsell-v2-save-product-upsells {
+    margin-top: 20px;
+}
+
+#upsell-v2-tabs label {
+    display: block;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+
+#upsell-v2-tabs input {
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+a.upsell-v2-remove-pu-upsell {
+    position: absolute;
+    left: 37%;
+    top: 43px;
+    width: 31px;
+    text-align: center;
+}
+
+.upsell-v2-pu-upsell-data {
+    position: relative;
+    padding-bottom: 15px;
+}
+
+div#upsell-v2-settings-cont select {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+span.upsell-v2-admin-help {
+    display: block;
+    font-style: italic;
+    margin-bottom: 10px;
+}

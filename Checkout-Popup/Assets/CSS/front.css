@@ -1,0 +1,164 @@
+h2#upsell-v2-checkout-popup-title {
+    text-align: center;
+    font-size: 28px;
+    background: #003264;
+    color: white;
+    line-height: 2;
+    font-weight: 400;
+}
+
+div#upsell-v2-checkout-popup-modal {
+    padding: 20px;
+    border-radius: 5px;
+}
+
+span.upsell-v2-checkout-popup-modal-dismiss {
+    position: absolute;
+    color: white;
+    width: 30px;
+    height: 30px;
+    background: #003264;
+    text-align: center;
+    line-height: 1.5;
+    border-radius: 50%;
+    right: -15px;
+    top: -15px;
+}
+
+.upsell-v2-checkout-popup-product-short-description.col-sm-10>h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+span.upsell-v2-checkout-popup-prod-description {
+    font-size: 14px;
+    padding-bottom: 10px;
+    display: block;
+}
+
+span.upsell-v2-checkout-popup-product-pricing-html {
+    font-weight: 600;
+    display: block;
+    padding-bottom: 10px;
+}
+
+#upsell-v2-checkout-popup-modal>div>div>div>div>div {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.upsell-v2-checkout-popup-product-image-actual {
+    border: 1px solid #ddd;
+    width: 100%;
+}
+
+.upsell-v2-checkout-popup-product-checkbox.col-sm-1 {
+    top: 41px;
+    left: 25px;
+}
+
+.upsell-v2-chekcout-popup-variable-select-data-cont>label {
+    font-weight: 600;
+}
+
+select.upsell-v2-checkout-popup-variation-select {
+    width: 120px;
+}
+
+.mfp-wrap {
+    overflow: initial !important;
+}
+
+button#upsell-v2-checkout-popup-modal-add-to-cart, button#upsell-v2-checkout-popup-offer-skip {
+    width: 100%;
+}
+
+/* 1536px */
+@media screen and (max-width: 1536px) {
+    h2#upsell-v2-checkout-popup-title {
+        font-size: 25px;
+    }
+    .upsell-v2-checkout-popup-product-short-description.col-sm-9>h4 {
+        font-size: 20px;
+    }
+    span.upsell-v2-checkout-popup-product-pricing-html,.upsell-v2-chekcout-popup-variable-select-data-cont>label {
+        font-size: 16px;
+    }
+    .mfp-content {
+        width: 75%!important;
+    }
+
+    .upsell-v2-checkout-popup-product-checkbox.col-sm-1 {
+        top: 55px;
+        left: 25px;
+    }
+}
+
+/* 1440px */
+@media screen and (max-width: 1440px) {
+    .mfp-content {
+        width: 80%!important;
+    }
+}
+
+/* 1366px */
+@media screen and (max-width: 1366px) {}
+
+/* 1280px */
+@media screen and (max-width: 1280px) {
+    .mfp-content {
+        width: 90%!important;
+    }
+}
+
+/* 962px */
+@media screen and (max-width: 962px) {
+    .mfp-content {
+        width: 99%!important;
+    }
+}
+
+/* 800px */
+@media screen and (max-width: 800px) {
+    .upsell-v2-checkout-popup-product-checkbox.col-sm-1 {
+        top: 25px;
+        left: 17px;
+    }
+}
+
+/* 768px */
+@media screen and (max-width: 768px) {}
+
+/* 601px */
+@media screen and (max-width: 601px) {
+    .upsell-v2-checkout-popup-product-checkbox.col-sm-1 {
+        top: 32px;
+        left: 11px;
+    }
+}
+
+/* 414px */
+@media screen and (max-width: 414px) {
+    h2#upsell-v2-checkout-popup-title {
+        margin-bottom: 0;
+    }
+    
+    .upsell-v2-checkout-popup-product-image.col-12.col-sm-3.col-md-2 {
+        margin-bottom: 25px;
+    }
+    
+    .upsell-v2-checkout-popup-product-data-cont.col-sm-11 {
+        margin-bottom: 30px;
+    }
+    
+    button#upsell-v2-checkout-popup-modal-add-to-cart {
+        margin-bottom: 15px;
+    }
+}
+
+/* 375px */
+@media screen and (max-width: 375px) {}
+
+/* 360px */
+@media screen and (max-width: 360px) {}
